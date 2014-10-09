@@ -1,4 +1,4 @@
-C:\Users\kaoru\rails-project>rails new first_app
+C:\Users\XXXX\rails-project>rails new first_app
       create
       create  README.rdoc
       create  Rakefile
